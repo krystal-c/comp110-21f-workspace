@@ -23,5 +23,5 @@ elif random_int == 3:
     print("All things are difficult before they are easy.")
 elif random_int == 4:
     print("The usefulness of a cup is in its emptiness")
-else:  
-    print("Now go and spread positive vibes!")
+
+print("Now, go spread positive vibes!")
